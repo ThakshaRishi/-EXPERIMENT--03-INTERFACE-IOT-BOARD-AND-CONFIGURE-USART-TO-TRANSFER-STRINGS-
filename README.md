@@ -148,7 +148,7 @@ int main(void)
   while (1)
   {
 		printf("Thaksha saveetha engg\n");
-    printf("212223100058");
+   		printf("212223100058");
 		HAL_Delay(500);
 
     /* USER CODE END WHILE */
